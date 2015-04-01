@@ -1,2 +1,1 @@
 2014-11-01 Find a way to import text into markdown and vim doc @doc
-2015-04-01 Allow users to have multiple todo.txt files by prefixing them (e.g. work.todo.txt)
