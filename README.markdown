@@ -1,6 +1,6 @@
 ### Quick install
 
-    git clone git://github.com/freitass/todo.txt-vim.git
+    git clone git://github.com/awochna/todo.txt-vim.git
     cd todo.txt-vim
     cp -R * ~/.vim
 
