@@ -4,6 +4,18 @@
     cd todo.txt-vim
     cp -R * ~/.vim
 
+### Better way to install: Tim Pope's pathogen.vim
+
+The best way to install this plugin is using [pathogen.vim](https://github.com/tpope/vim-pathogen). Installation and upgrading is easy:
+
+    cd ~/.vim/bundle
+    git clone git://github.com/awochna/todo.txt-vim.git
+
+Upgrading is just a `git pull` away.
+
+### About the Plugin
+
+This was originally forked from [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim).
 
 This plugin gives syntax highlighting to [todo.txt](http://todotxt.com/) files. It also defines a few mappings, to help with editing these files:
 
